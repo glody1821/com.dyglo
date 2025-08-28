@@ -27,3 +27,7 @@ git push origin main
 
 ''' 
 git checkout -b "nom_branch"
+
+'''
+
+pour les bonnes pratique, on va intégrer la notion de revue de code
